@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         // 1. Cria uma nova árvore AVL
-        ArvoreAVL arvore = new ArvoreAVL();
+        Arvore arvore = new Arvore();
 
         // 2. Insere os valores
         System.out.println("Inserindo: 30");
